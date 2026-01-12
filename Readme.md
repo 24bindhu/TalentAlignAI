@@ -78,7 +78,7 @@ Improvements:
 
 1. **Run the analyzer**
 ```bash
-   python main.py
+   python gradio_app.py
 ```
 
 2. **Paste your resume**
